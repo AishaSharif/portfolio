@@ -1,4 +1,7 @@
-body{
+body {
   font-size: 12px; 
   font-family: 'Lato', sans-serif;
+}
+.hero{
+  background-color: #2B2E4A;
 }
