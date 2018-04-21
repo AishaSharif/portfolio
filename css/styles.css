@@ -16,3 +16,11 @@ body {
 .highlight{
   color: #E84545;
 }
+.work{
+  font-size: 80px;
+}
+a{
+  font-size: 20px;
+  text-decoration: none;
+  color: #E84545;
+}
