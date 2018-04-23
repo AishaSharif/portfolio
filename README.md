@@ -3,5 +3,5 @@
 #### By **Aisha Sharif**
 #### Built on HTML and CSS
 #### In case of any issues contact me at my email
-### License MIT
+### MIT License
 Copyright (c) {2018}
